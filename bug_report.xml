@@ -1,17 +1,17 @@
-{
-  "bugReport": {
-    "description": 
-    "stepsToReproduce":
-    "actualResult":
-    "expectedResult":
-    "project":
-    "build":
-    "severity":
-    "priority":
-    "bugStatus":
-    "author":
-    "assignedTo":
-    "environment":
-    "attachedFiles":
-  }
-}
+<?xml version-"1.0" endcoding="UTF-8"?>
+<bugReport>
+  <description>...</description>
+  <stepsToReproduce>...</stepsToReproduce>
+  <actualResult>...</actualResult>
+  <expectedResult>...</expectedResult>
+  <project>...</project>
+  <build>...</build>
+  <severity>...</severity>
+  <priority>...</priority>
+  <bugStatus>...</bugStatus>
+  <author>...</author>
+  <assignedTo>...</assignedTo>
+  <environment>...</environment>
+  <attachedFiles>...</attachedFiles>
+</bugReport>
+

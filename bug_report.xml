@@ -1,1 +1,17 @@
-
+{
+  "bugReport": {
+    "description": 
+    "stepsToReproduce":
+    "actualResult":
+    "expectedResult":
+    "project":
+    "build":
+    "severity":
+    "priority":
+    "bugStatus":
+    "author":
+    "assignedTo":
+    "environment":
+    "attachedFiles":
+  }
+}
